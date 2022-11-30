@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\1290743\Desktop\Системное программирование\WinAPI\WinAPI\Source.c(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\1290743\Desktop\Системное программирование\WinAPI\WinAPI\Source.c(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\1290743\Desktop\Системное программирование\WinAPI\WinAPI\Source.c(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\1290743\Desktop\Системное программирование\WinAPI\WinAPI\Source.c(13,9): warning C4133: функция: несовместимые типы - из "char [10]" в "LPCWSTR"
+C:\Users\1290743\Desktop\Системное программирование\WinAPI\WinAPI\Source.c(13,9): warning C4133: функция: несовместимые типы - из "char [12]" в "LPCWSTR"
+  WinAPI.vcxproj -> C:\Users\1290743\Desktop\Системное программирование\WinAPI\Debug\WinAPI.exe
